@@ -10,3 +10,7 @@ This repository contains my assignments
 [assignment 1 R](https://github.com/anoukvv/assignments/blob/master/Graded_assignment1(2).ipynb)
 
 [assignment 2 R](https://github.com/anoukvv/assignments/blob/master/Graded_assignment_2.ipynb)
+
+[Final Exam Python](https://github.com/anoukvv/assignments/blob/master/exam_june_7_2018(1).ipynb)
+
+[Final Exam R](https://github.com/anoukvv/assignments/blob/master/Exam_student(2).ipynb)
